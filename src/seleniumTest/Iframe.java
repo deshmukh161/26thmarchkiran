@@ -38,6 +38,7 @@ public class Iframe {
 	  driver.switchTo().defaultContent();
 	 String test5 = driver.findElement(By.id("inputtext1")).getText();
 	 System.out.println(test5);
+	 System.out.println("this is my changed");
       
        
 		
